@@ -580,15 +580,15 @@ a {
 }
 
 a:hover {
-  color: #b7422d !important;
+  color: #6a8787 !important;
 }
 
 a:active {
-  color: #b7422d !important;
+  color: #6a8787 !important;
 }
 
 a:visited {
-  color: #b7422d !important;
+  color: #6a8787 !important;
 }
 
 h1 a,
@@ -1024,7 +1024,7 @@ a.read-more {
 }
 
 .nav table {
-  background-color: #b7422d;
+  background-color: #6a8787;
 }
 .nav table td {
   padding: 5px 10px 5px 10px;
@@ -1115,7 +1115,7 @@ figcaption .iab {
 }
 
 .figcaption {
-  background-color: #b7422d;
+  background-color: #6a8787;
 }
 .figcaption td {
   padding: 10px 0 !important;
